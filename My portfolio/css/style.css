@@ -3,3 +3,14 @@
 	padding:0px;
 	font-family: 'Sriracha', cursive;
 }
+
+
+body{
+	font-family: 'Sriracha', cursive;
+}
+
+
+.header {
+  padding: 12px;
+  background: linear-gradient(to right, #ff0066 3%,#ffff66 95%);  
+}
